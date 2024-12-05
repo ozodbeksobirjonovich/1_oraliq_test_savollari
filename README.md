@@ -5,18 +5,18 @@
    print(x ** y)
    ```
    
-a) 7  
-b) 25  
-c) 10
+   a) 7  
+   b) 25  
+   c) 10
 
 2. List elementlarini teskari tartibda chiqarish uchun qaysi usul to'g'ri?
    ```python
    numbers = [1, 2, 3, 4, 5]
    ```
    
-a) print(numbers.reverse())  
-b) print(numbers[::-1])  
-c) print(sort(numbers, reverse=True))
+   a) print(numbers.reverse())  
+   b) print(numbers[::-1])  
+   c) print(sort(numbers, reverse=True))
 
 3. Quyidagi funksiyani chaqirish natijasi nima bo'ladi?
    ```python
@@ -28,9 +28,9 @@ c) print(sort(numbers, reverse=True))
    print(multiply(2,3,4))
    ```
    
-a) 24  
-b) 9  
-c) 14
+   a) 24  
+   b) 9  
+   c) 14
 
 4. Dictionary comprehension orqali kvadratlarni hisoblash:
    ```python
@@ -39,9 +39,9 @@ c) 14
    print(squares[3])
    ```
    
-a) 6  
-b) 9  
-c) 27
+   a) 6  
+   b) 9  
+   c) 27
 
 5. While tsikli qachon to'xtaydi?
    ```python
@@ -50,10 +50,10 @@ c) 27
        print(x)
        x += 1
    ```
-
-a) x = 4 da  
-b) x = 5 da  
-c) x = 6 da
+   
+   a) x = 4 da  
+   b) x = 5 da  
+   c) x = 6 da
 
 6. Lambda funksiyasi natijasi nima?
    ```python
@@ -61,9 +61,9 @@ c) x = 6 da
    print(multiply(3,4))
    ```
    
-a) 7  
-b) 12  
-c) 34
+   a) 7  
+   b) 12  
+   c) 34
 
 7. Set operatsiyasi natijasi nima bo'ladi?
    ```python
@@ -71,10 +71,10 @@ c) 34
    set2 = {3,4,5}
    print(set1.intersection(set2))
    ```
-
-a) {3}  
-b) {1,2,4,5}  
-c) {1,2,3,4,5}
+   
+   a) {3}  
+   b) {1,2,4,5}  
+   c) {1,2,3,4,5}
 
 8. List slicing natijasi:
    ```python
@@ -82,9 +82,9 @@ c) {1,2,3,4,5}
    print(numbers[2:5])
    ```
    
-a) [2,3,4]  
-b) [2,3,4,5]  
-c) [1,2,3,4]
+   a) [2,3,4]  
+   b) [2,3,4,5]  
+   c) [1,2,3,4]
 
 9. Quyidagi kod nima qaytaradi?
    ```python
@@ -92,19 +92,19 @@ c) [1,2,3,4]
    print(text[::-1])
    ```
    
-a) nohtyP  
-b) Python  
-c) PYTHON
+   a) nohtyP  
+   b) Python  
+   c) PYTHON
 
 10. Dictionary metodidan foydalanish:
     ```python
     dict1 = {'a':1, 'b':2}
     print(dict1.get('c', 3))
     ```
- 
- a) KeyError  
- b) None  
- c) 3
+    
+    a) KeyError  
+    b) None  
+    c) 3
 
 11. For tsikli necha marta aylanadi?
     ```python
@@ -112,9 +112,9 @@ c) PYTHON
         print(i)
     ```
     
- a) 3 marta  
- b) 4 marta  
- c) 2 marta
+    a) 3 marta  
+    b) 4 marta  
+    c) 2 marta
 
 12. List comprehension natijasi:
     ```python
@@ -122,10 +122,10 @@ c) PYTHON
     evens = [x for x in numbers if x%2==0]
     print(evens)
     ```
- 
- a) [2,4]  
- b) [1,3,5]  
- c) [1,2,3,4,5]
+    
+    a) [2,4]  
+    b) [1,3,5]  
+    c) [1,2,3,4,5]
 
 13. Try-except blokida qanday natija chiqadi?
     ```python
@@ -135,9 +135,9 @@ c) PYTHON
         print("xato")
     ```
     
- a) xato  
- b) 0  
- c) Error
+    a) xato  
+    b) 0  
+    c) Error
 
 14. Tuple qiymati o'zgaradimi?
     ```python
@@ -146,9 +146,9 @@ c) PYTHON
     print(t)
     ```
     
- a) TypeError  
- b) (5,2,3)  
- c) (1,2,3)
+    a) TypeError  
+    b) (5,2,3)  
+    c) (1,2,3)
 
 15. Set metodining natijasi nima?
     ```python
@@ -157,9 +157,9 @@ c) PYTHON
     print(s1.union(s2))
     ```
     
- a) {1,2,3,4,5}  
- b) {3}  
- c) {1,2,4,5}
+    a) {1,2,3,4,5}  
+    b) {3}  
+    c) {1,2,4,5}
 
 16. Map funksiyasi natijasi:
     ```python
@@ -168,9 +168,9 @@ c) PYTHON
     print(squared)
     ```
     
- a) [1,4,9,16]  
- b) [2,4,6,8]  
- c) [1,2,3,4]
+    a) [1,4,9,16]  
+    b) [2,4,6,8]  
+    c) [1,2,3,4]
 
 17. Funksiya parametri qanday ishlaydi?
     ```python
@@ -179,9 +179,9 @@ c) PYTHON
     greet()
     ```
     
- a) Hello User  
- b) Hello  
- c) Error
+    a) Hello User  
+    b) Hello  
+    c) Error
 
 18. List metodining natijasi:
     ```python
@@ -190,9 +190,9 @@ c) PYTHON
     print(lst)
     ```
     
- a) [1,2,3,[4,5]]  
- b) [1,2,3,4,5]  
- c) [1,2,3,4]
+    a) [1,2,3,[4,5]]  
+    b) [1,2,3,4,5]  
+    c) [1,2,3,4]
 
 19. String metodining natijasi:
     ```python
@@ -200,9 +200,9 @@ c) PYTHON
     print(text.upper())
     ```
     
- a) PYTHON  
- b) Python  
- c) python
+    a) PYTHON  
+    b) Python  
+    c) python
 
 20. Dictionary comprehension natijasi:
     ```python
@@ -210,9 +210,9 @@ c) PYTHON
     print(d)
     ```
     
- a) {0:0, 1:2, 2:4}  
- b) {0:1, 1:2, 2:3}  
- c) {1:2, 2:4, 3:6}
+    a) {0:0, 1:2, 2:4}  
+    b) {0:1, 1:2, 2:3}  
+    c) {1:2, 2:4, 3:6}
 
 21. While tsikli necha marta aylanadi?
     ```python
@@ -222,9 +222,9 @@ c) PYTHON
         i -= 2
     ```
     
- a) 3 marta  
- b) 2 marta  
- c) 5 marta
+    a) 3 marta  
+    b) 2 marta  
+    c) 5 marta
 
 22. Set operatsiyasi natijasi:
     ```python
@@ -233,9 +233,9 @@ c) PYTHON
     print(s1.difference(s2))
     ```
     
- a) {1,2}  
- b) {4,5}  
- c) {1,2,4,5}
+    a) {1,2}  
+    b) {4,5}  
+    c) {1,2,4,5}
 
 23. List slicing natijasi:
     ```python
@@ -243,9 +243,9 @@ c) PYTHON
     print(numbers[::2])
     ```
     
- a) [0,2,4]  
- b) [1,3,5]  
- c) [0,1,2]
+    a) [0,2,4]  
+    b) [1,3,5]  
+    c) [0,1,2]
 
 24. Filter funksiyasi natijasi:
     ```python
@@ -254,9 +254,9 @@ c) PYTHON
     print(evens)
     ```
     
- a) [2,4,6]  
- b) [1,3,5]  
- c) [1,2,3,4,5,6]
+    a) [2,4,6]  
+    b) [1,3,5]  
+    c) [1,2,3,4,5,6]
 
 25. String formatlash natijasi:
     ```python
@@ -265,9 +265,9 @@ c) PYTHON
     print(f"{name} is {age}")
     ```
     
- a) John is 25  
- b) name is age  
- c) John is {age}
+    a) John is 25  
+    b) name is age  
+    c) John is {age}
 
 26. Lambda funksiyasi natijasi:
     ```python
@@ -275,9 +275,9 @@ c) PYTHON
     print(func(4))
     ```
     
- a) juft  
- b) toq  
- c) None
+    a) juft  
+    b) toq  
+    c) None
 
 27. Tuple bo'shatish natijasi:
     ```python
@@ -286,9 +286,9 @@ c) PYTHON
     print(b)
     ```
     
- a) 2  
- b) 1  
- c) 3
+    a) 2  
+    b) 1  
+    c) 3
 
 28. List metodining natijasi:
     ```python
@@ -297,9 +297,9 @@ c) PYTHON
     print(lst)
     ```
     
- a) [1,5,2,3,4]  
- b) [1,2,5,3,4]  
- c) [5,1,2,3,4]
+    a) [1,5,2,3,4]  
+    b) [1,2,5,3,4]  
+    c) [5,1,2,3,4]
 
 29. Quyidagi kod natijasi nima bo'ladi?
     ```python
@@ -307,9 +307,9 @@ c) PYTHON
     print(" ".join(x))
     ```
     
- a) salom dunyo python  
- b) ['salom', 'dunyo', 'python']  
- c) salomdunyopython
+    a) salom dunyo python  
+    b) ['salom', 'dunyo', 'python']  
+    c) salomdunyopython
 
 30. Dictionary metodining natijasi:
     ```python
@@ -318,9 +318,9 @@ c) PYTHON
     print(d)
     ```
     
- a) {'a':1, 'b':2, 'c':3}  
- b) {'a':1, 'b':2}  
- c) Error
+    a) {'a':1, 'b':2, 'c':3}  
+    b) {'a':1, 'b':2}  
+    c) Error
 
 31. List comprehension bilan filter:
     ```python
@@ -329,9 +329,9 @@ c) PYTHON
     print(result)
     ```
     
- a) [6,7,8,9,10]  
- b) [1,2,3,4,5]  
- c) [5,6,7,8,9,10]
+    a) [6,7,8,9,10]  
+    b) [1,2,3,4,5]  
+    c) [5,6,7,8,9,10]
 
 32. For tsikli va enumerate natijasi:
     ```python
@@ -340,9 +340,9 @@ c) PYTHON
         print(f"{i}. {fruit}")
     ```
     
- a) 1. olma 2. banan 3. uzum  
- b) 0. olma 1. banan 2. uzum  
- c) olma banan uzum
+    a) 1. olma 2. banan 3. uzum  
+    b) 0. olma 1. banan 2. uzum  
+    c) olma banan uzum
 
 33. Lambda va map funksiyasi:
     ```python
@@ -351,9 +351,9 @@ c) PYTHON
     print(result)
     ```
     
- a) ['11','22','33']  
- b) [2,4,6]  
- c) ['1','2','3']
+    a) ['11','22','33']  
+    b) [2,4,6]  
+    c) ['1','2','3']
 
 34. Set metodi natijasi:
     ```python
@@ -361,10 +361,10 @@ c) PYTHON
     s.discard(5)
     print(s)
     ```
- 
- a) {1,2,3,4}  
- b) Error  
- c) {1,2,3,4,5}
+    
+    a) {1,2,3,4}  
+    b) Error  
+    c) {1,2,3,4,5}
 
 35. String metodlari:
     ```python
@@ -372,9 +372,9 @@ c) PYTHON
     print(text.strip().lower())
     ```
     
- a) python  
- b) Python  
- c) PYTHON
+    a) python  
+    b) Python  
+    c) PYTHON
 
 36. Dictionary comprehension va if:
     ```python
@@ -382,10 +382,10 @@ c) PYTHON
     d = {x:x**2 for x in nums if x%2==0}
     print(d)
     ```
- 
- a) {0:0, 2:4, 4:16}  
- b) {1:1, 3:9}  
- c) {0:0, 1:1, 2:4, 3:9, 4:16}
+    
+    a) {0:0, 2:4, 4:16}  
+    b) {1:1, 3:9}  
+    c) {0:0, 1:1, 2:4, 3:9, 4:16}
 
 37. List bo'shatish:
     ```python
@@ -394,9 +394,9 @@ c) PYTHON
     print(rest)
     ```
     
- a) [2,3,4,5]  
- b) [1,2,3,4]  
- c) [1]
+    a) [2,3,4,5]  
+    b) [1,2,3,4]  
+    c) [1]
 
 38. Set operatsiyasi:
     ```python
@@ -405,9 +405,9 @@ c) PYTHON
     print(s1.symmetric_difference(s2))
     ```
     
- a) {1,2,4,5}  
- b) {3}  
- c) {1,2,3,4,5}
+    a) {1,2,4,5}  
+    b) {3}  
+    c) {1,2,3,4,5}
 
 39. Try-except va else:
     ```python
@@ -418,10 +418,10 @@ c) PYTHON
     else:
         print("ok")
     ```
- 
- a) ok  
- b) xato  
- c) 2.5
+    
+    a) ok  
+    b) xato  
+    c) 2.5
 
 40. Filter va lambda:
     ```python
@@ -430,9 +430,9 @@ c) PYTHON
     print(result)
     ```
     
- a) ['dasturlash']  
- b) ['salom', 'python']  
- c) ['dunyo']
+    a) ['dasturlash']  
+    b) ['salom', 'python']  
+    c) ['dunyo']
 
 41. String metodlari:
     ```python
@@ -440,9 +440,9 @@ c) PYTHON
     print(text.title())
     ```
     
- a) Python Dasturlash  
- b) PYTHON DASTURLASH  
- c) python dasturlash
+    a) Python Dasturlash  
+    b) PYTHON DASTURLASH  
+    c) python dasturlash
 
 42. List metodlari:
     ```python
@@ -450,19 +450,19 @@ c) PYTHON
     print(lst.count(2))
     ```
     
- a) 3  
- b) 2  
- c) 1
+    a) 3  
+    b) 2  
+    c) 1
 
 43. Dictionary metodi:
     ```python
     d = {'a':1, 'b':2}
     print(list(d.values()))
     ```
- 
- a) [1,2]  
- b) ['a','b']  
- c) {'a':1, 'b':2}
+    
+    a) [1,2]  
+    b) ['a','b']  
+    c) {'a':1, 'b':2}
 
 44. While va break:
     ```python
@@ -473,10 +473,10 @@ c) PYTHON
         print(i)
         i += 1
     ```
- 
- a) 1 2 3 4 5  
- b) 1 2 3 4 5 6  
- c) infinite loop
+    
+    a) 1 2 3 4 5  
+    b) 1 2 3 4 5 6  
+    c) infinite loop
 
 45. Set amalining natijasi:
     ```python
@@ -484,10 +484,10 @@ c) PYTHON
     s.add(3)
     print(len(s))
     ```
- 
- a) 3  
- b) 4  
- c) Error
+    
+    a) 3  
+    b) 4  
+    c) Error
 
 46. List comprehension va map:
     ```python
@@ -496,9 +496,9 @@ c) PYTHON
     print(result)
     ```
     
- a) [4,16,36,64]  
- b) [1,4,9,16]  
- c) [2,4,6,8]
+    a) [4,16,36,64]  
+    b) [1,4,9,16]  
+    c) [2,4,6,8]
 
 47. String metodlari kombinatsiyasi:
     ```python
@@ -506,9 +506,9 @@ c) PYTHON
     print(text.strip().lower().capitalize())
     ```
     
- a) Python  
- b) PYTHON  
- c) python
+    a) Python  
+    b) PYTHON  
+    c) python
 
 48. Dictionary va get metodi:
     ```python
@@ -517,9 +517,9 @@ c) PYTHON
     print(x)
     ```
     
- a) 1  
- b) 0  
- c) Error
+    a) 1  
+    b) 0  
+    c) Error
 
 49. For tsikli va range:
     ```python
@@ -529,9 +529,9 @@ c) PYTHON
     print(total)
     ```
     
- a) 6  
- b) 10  
- c) 4
+    a) 6  
+    b) 10  
+    c) 4
 
 50. List va sort metodi:
     ```python
@@ -539,10 +539,10 @@ c) PYTHON
     lst.sort(key=lambda x: x[1])
     print(lst)
     ```
- 
- a) [(1,'a'), (2,'b'), (3,'c')]  
- b) [(2,'b'), (1,'a'), (3,'c')]  
- c) [(3,'c'), (2,'b'), (1,'a')]
+    
+    a) [(1,'a'), (2,'b'), (3,'c')]  
+    b) [(2,'b'), (1,'a'), (3,'c')]  
+    c) [(3,'c'), (2,'b'), (1,'a')]
 
 51. Generator expression:
     ```python
@@ -550,9 +550,9 @@ c) PYTHON
     print(list(g))
     ```
     
- a) [0,1,4]  
- b) [1,4,9]  
- c) (0,1,4)
+    a) [0,1,4]  
+    b) [1,4,9]  
+    c) (0,1,4)
 
 52. Set va for tsikli:
     ```python
@@ -563,9 +563,9 @@ c) PYTHON
     print(result)
     ```
     
- a) {2,4,6}  
- b) {1,2,3}  
- c) [2,4,6]
+    a) {2,4,6}  
+    b) {1,2,3}  
+    c) [2,4,6]
 
 53. List va extend metodi:
     ```python
@@ -574,10 +574,10 @@ c) PYTHON
     lst1.extend(lst2)
     print(lst1)
     ```
- 
- a) [1,2,3,4,5]  
- b) [1,2,3,[4,5]]  
- c) [[1,2,3],[4,5]]
+    
+    a) [1,2,3,4,5]  
+    b) [1,2,3,[4,5]]  
+    c) [[1,2,3],[4,5]]
 
 54. Dictionary va items metodi:
     ```python
@@ -585,20 +585,20 @@ c) PYTHON
     for k,v in d.items():
         print(k+str(v), end=' ')
     ```
- 
- a) a1 b2  
- b) ab12  
- c) 1 2
+    
+    a) a1 b2  
+    b) ab12  
+    c) 1 2
 
 55. String va replace metodi:
     ```python
     text = "python python python"
     print(text.replace('python', 'java', 2))
     ```
- 
- a) java java python  
- b) java java java  
- c) python python python
+    
+    a) java java python  
+    b) java java java  
+    c) python python python
 
 56. List va copy:
     ```python
@@ -608,9 +608,9 @@ c) PYTHON
     print(lst2[1])
     ```
     
- a) [5,3]  
- b) [2,3]  
- c) [1,2,3]
+    a) [5,3]  
+    b) [2,3]  
+    c) [1,2,3]
 
 57. Function va default parametr:
     ```python
@@ -618,10 +618,10 @@ c) PYTHON
         return x+y
     print(add(3))
     ```
- 
- a) 5  
- b) 3  
- c) Error
+    
+    a) 5  
+    b) 3  
+    c) Error
 
 58. Dictionary comprehension va zip:
     ```python
@@ -630,10 +630,10 @@ c) PYTHON
     d = {k:v for k,v in zip(keys,values)}
     print(d)
     ```
- 
- a) {'a':1,'b':2,'c':3}  
- b) ['a1','b2','c3']  
- c) {('a',1),('b',2),('c',3)}
+    
+    a) {'a':1,'b':2,'c':3}  
+    b) ['a1','b2','c3']  
+    c) {('a',1),('b',2),('c',3)}
 
 59. List va insert metodi:
     ```python
@@ -642,9 +642,9 @@ c) PYTHON
     print(lst)
     ```
     
- a) [1,3,2]  
- b) [3,1,2]  
- c) [1,2,3]
+    a) [1,3,2]  
+    b) [3,1,2]  
+    c) [1,2,3]
 
 60. Try-except va finally:
     ```python
@@ -656,9 +656,9 @@ c) PYTHON
         print("done")
     ```
     
- a) error done  
- b) done  
- c) error
+    a) error done  
+    b) done  
+    c) error
 
 61. While va continue operatori:
     ```python
@@ -671,10 +671,10 @@ c) PYTHON
         count += 1
     print(count)
     ```
- 
- a) 4  
- b) 5  
- c) 3
+    
+    a) 4  
+    b) 5  
+    c) 3
 
 62. Set va frozenset:
     ```python
@@ -682,10 +682,10 @@ c) PYTHON
     s.add(4)
     print(s)
     ```
- 
- a) AttributeError  
- b) {1,2,3,4}  
- c) frozenset({1,2,3,4})
+    
+    a) AttributeError  
+    b) {1,2,3,4}  
+    c) frozenset({1,2,3,4})
 
 63. Dictionary update metodi:
     ```python
@@ -695,9 +695,9 @@ c) PYTHON
     print(d1)
     ```
     
- a) {'a':1, 'b':3, 'c':4}  
- b) {'a':1, 'b':2, 'c':4}  
- c) {'a':1, 'b':2}
+    a) {'a':1, 'b':3, 'c':4}  
+    b) {'a':1, 'b':2, 'c':4}  
+    c) {'a':1, 'b':2}
 
 64. List va index metodi:
     ```python
@@ -705,9 +705,9 @@ c) PYTHON
     print(lst.index(2, 2))
     ```
     
- a) 3  
- b) 1  
- c) 2
+    a) 3  
+    b) 1  
+    c) 2
 
 65. String metodlari:
     ```python
@@ -715,9 +715,9 @@ c) PYTHON
     print(text.split('-'))
     ```
     
- a) ['python', 'dasturlash', 'tili']  
- b) 'python dasturlash tili'  
- c) ['python-dasturlash-tili']
+    a) ['python', 'dasturlash', 'tili']  
+    b) 'python dasturlash tili'  
+    c) ['python-dasturlash-tili']
 
 66. Lambda va filter:
     ```python
@@ -726,9 +726,9 @@ c) PYTHON
     print(result)
     ```
     
- a) [6,7]  
- b) [5,6,7,8]  
- c) [6,7,8]
+    a) [6,7]  
+    b) [5,6,7,8]  
+    c) [6,7,8]
 
 67. Set operatsiyalari:
     ```python
@@ -737,9 +737,9 @@ c) PYTHON
     print(s1 | s2)
     ```
     
- a) {1,2,3,4,5}  
- b) {3}  
- c) {1,2,4,5}
+    a) {1,2,3,4,5}  
+    b) {3}  
+    c) {1,2,4,5}
 
 68. List comprehension va enumerate:
     ```python
@@ -748,9 +748,9 @@ c) PYTHON
     print(result)
     ```
     
- a) ['0:a', '1:b', '2:c']  
- b) ['a', 'b', 'c']  
- c) [0, 1, 2]
+    a) ['0:a', '1:b', '2:c']  
+    b) ['a', 'b', 'c']  
+    c) [0, 1, 2]
 
 69. Dictionary va pop metodi:
     ```python
@@ -759,9 +759,9 @@ c) PYTHON
     print(d)
     ```
     
- a) {'a':1, 'c':3}  
- b) {'a':1, 'b':2, 'c':3}  
- c) {'a':1, 'c':3, 'b':0}
+    a) {'a':1, 'c':3}  
+    b) {'a':1, 'b':2, 'c':3}  
+    c) {'a':1, 'c':3, 'b':0}
 
 70. String formatlash:
     ```python
@@ -770,9 +770,9 @@ c) PYTHON
     print("%s %.1f" % (name, version))
     ```
     
- a) Python 3.9  
- b) Python3.9  
- c) Python 3
+    a) Python 3.9  
+    b) Python3.9  
+    c) Python 3
 
 71. List va remove metodi:
     ```python
@@ -781,9 +781,9 @@ c) PYTHON
     print(lst)
     ```
     
- a) [1,3,2,4]  
- b) [1,2,3,4]  
- c) [1,3,4]
+    a) [1,3,2,4]  
+    b) [1,2,3,4]  
+    c) [1,3,4]
 
 72. Function va args:
     ```python
@@ -792,9 +792,9 @@ c) PYTHON
     print(sum_all(1,2,3))
     ```
     
- a) 6  
- b) [1,2,3]  
- c) Error
+    a) 6  
+    b) [1,2,3]  
+    c) Error
 
 73. Set va issubset:
     ```python
@@ -803,9 +803,9 @@ c) PYTHON
     print(s1.issubset(s2))
     ```
     
- a) True  
- b) False  
- c) None
+    a) True  
+    b) False  
+    c) None
 
 74. Dictionary va setdefault:
     ```python
@@ -814,9 +814,9 @@ c) PYTHON
     print(d)
     ```
     
- a) {'a':1, 'b':2}  
- b) {'a':1}  
- c) Error
+    a) {'a':1, 'b':2}  
+    b) {'a':1}  
+    c) Error
 
 75. Generator funksiya:
     ```python
@@ -826,9 +826,9 @@ c) PYTHON
     print(list(get_numbers(3)))
     ```
     
- a) [0,2,4]  
- b) [1,2,3]  
- c) [2,4,6]
+    a) [0,2,4]  
+    b) [1,2,3]  
+    c) [2,4,6]
 
 76. List bo'shatish:
     ```python
@@ -837,9 +837,9 @@ c) PYTHON
     print(b)
     ```
     
- a) [2,3,4]  
- b) [1,2,3]  
- c) [3,4,5]
+    a) [2,3,4]  
+    b) [1,2,3]  
+    c) [3,4,5]
 
 77. List sort metodining natijasi:
     ```python
@@ -848,9 +848,9 @@ c) PYTHON
     print(numbers)
     ```
     
- a) [(2,'a'), (1,'b'), (0,'c')]  
- b) [(1,'b'), (2,'a'), (0,'c')]  
- c) [(0,'c'), (1,'b'), (2,'a')]
+    a) [(2,'a'), (1,'b'), (0,'c')]  
+    b) [(1,'b'), (2,'a'), (0,'c')]  
+    c) [(0,'c'), (1,'b'), (2,'a')]
 
 78. Set metodi natijasi:
     ```python
@@ -858,10 +858,10 @@ c) PYTHON
     s2 = {3,4,5,6}
     print(s1 - s2)
     ```
- 
- a) {1,2}  
- b) {5,6}  
- c) {1,2,5,6}
+    
+    a) {1,2}  
+    b) {5,6}  
+    c) {1,2,5,6}
 
 79. Dictionary comprehension:
     ```python
@@ -869,10 +869,10 @@ c) PYTHON
     d = {x:ord(x) for x in letters}
     print(d['a'])
     ```
- 
- a) 97  
- b) 65  
- c) 1
+    
+    a) 97  
+    b) 65  
+    c) 1
 
 80. String metodlari:
     ```python
@@ -880,9 +880,9 @@ c) PYTHON
     print('#'.join(text.split('#')[:2]))
     ```
     
- a) python#dasturlash  
- b) dasturlash#tili  
- c) python#dasturlash#tili
+    a) python#dasturlash  
+    b) dasturlash#tili  
+    c) python#dasturlash#tili
 
 81. Lambda funksiyasi:
     ```python
@@ -890,9 +890,9 @@ c) PYTHON
     print(func(5,3))
     ```
     
- a) 5  
- b) 3  
- c) True
+    a) 5  
+    b) 3  
+    c) True
 
 82. List methodlari:
     ```python
@@ -901,9 +901,9 @@ c) PYTHON
     print(lst[1:4])
     ```
     
- a) [4,3,2]  
- b) [2,3,4]  
- c) [5,4,3]
+    a) [4,3,2]  
+    b) [2,3,4]  
+    c) [5,4,3]
 
 83. Function va kwargs:
     ```python
@@ -911,10 +911,10 @@ c) PYTHON
         return len(kwargs)
     print(print_info(name="John", age=25))
     ```
- 
- a) 2  
- b) 0  
- c) Error
+    
+    a) 2  
+    b) 0  
+    c) Error
 
 84. Tuple va list:
     ```python
@@ -923,9 +923,9 @@ c) PYTHON
     print(t)
     ```
     
- a) (1,2,[5,4])  
- b) TypeError  
- c) (1,2,[3,4])
+    a) (1,2,[5,4])  
+    b) TypeError  
+    c) (1,2,[3,4])
 
 85. Dictionary va get metodi:
     ```python
@@ -933,10 +933,10 @@ c) PYTHON
     x = d.get('c', [3,4])
     print(x)
     ```
- 
- a) [3,4]  
- b) None  
- c) KeyError
+    
+    a) [3,4]  
+    b) None  
+    c) KeyError
 
 86. List comprehension va zip:
     ```python
@@ -945,10 +945,10 @@ c) PYTHON
     result = [a+b for a,b in zip(x,y)]
     print(result)
     ```
- 
- a) [5,7,9]  
- b) [1,2,3,4,5,6]  
- c) [(1,4),(2,5),(3,6)]
+    
+    a) [5,7,9]  
+    b) [1,2,3,4,5,6]  
+    c) [(1,4),(2,5),(3,6)]
 
 87. String metodlari:
     ```python
@@ -956,9 +956,9 @@ c) PYTHON
     print(text.swapcase())
     ```
     
- a) pYTHON dASTURLASH  
- b) PYTHON DASTURLASH  
- c) python dasturlash
+    a) pYTHON dASTURLASH  
+    b) PYTHON DASTURLASH  
+    c) python dasturlash
 
 88. Set va frozenset:
     ```python
@@ -966,10 +966,10 @@ c) PYTHON
     f = frozenset([2,3,4])
     print(s & f)
     ```
- 
- a) {2,3}  
- b) {1,4}  
- c) {1,2,3,4}
+    
+    a) {2,3}  
+    b) {1,4}  
+    c) {1,2,3,4}
 
 89. Dictionary va pop metodi:
     ```python
@@ -978,9 +978,9 @@ c) PYTHON
     print(value)
     ```
     
- a) -1  
- b) KeyError  
- c) None
+    a) -1  
+    b) KeyError  
+    c) None
 
 90. Generator expression:
     ```python
@@ -989,9 +989,9 @@ c) PYTHON
         print(i, end=' ')
     ```
     
- a) 0 1 4  
- b) 1 4 9  
- c) 0 1 2
+    a) 0 1 4  
+    b) 1 4 9  
+    c) 0 1 2
 
 91. Function va return:
     ```python
@@ -1001,10 +1001,10 @@ c) PYTHON
         return x
     print(func(-1))
     ```
- 
- a) None  
- b) -1  
- c) 0
+    
+    a) None  
+    b) -1  
+    c) 0
 
 92. List va extend:
     ```python
@@ -1013,9 +1013,9 @@ c) PYTHON
     print(lst)
     ```
     
- a) [1,2,'3','4']  
- b) [1,2,34]  
- c) [1,2,'34']
+    a) [1,2,'3','4']  
+    b) [1,2,34]  
+    c) [1,2,'34']
 
 93. Set metodlari:
     ```python
@@ -1024,9 +1024,9 @@ c) PYTHON
     print(s1.symmetric_difference(s2))
     ```
     
- a) {1,2,4,5}  
- b) {3}  
- c) {1,2,3,4,5}
+    a) {1,2,4,5}  
+    b) {3}  
+    c) {1,2,3,4,5}
 
 94. String formatlash:
     ```python
@@ -1034,10 +1034,10 @@ c) PYTHON
     text = f"Answer: {num:03d}"
     print(text)
     ```
- 
- a) Answer: 042  
- b) Answer: 42  
- c) Answer: 00042
+    
+    a) Answer: 042  
+    b) Answer: 42  
+    c) Answer: 00042
 
 95. List va slicing:
     ```python
@@ -1046,9 +1046,9 @@ c) PYTHON
     print(lst)
     ```
     
- a) [1,0,5]  
- b) [1,0,3,4,5]  
- c) [1,2,0,4,5]
+    a) [1,0,5]  
+    b) [1,0,3,4,5]  
+    c) [1,2,0,4,5]
 
 96. Dictionary va default qiymat:
     ```python
@@ -1058,9 +1058,9 @@ c) PYTHON
     print(dict(d))
     ```
     
- a) {'a': [1]}  
- b) {'a': 1}  
- c) KeyError
+    a) {'a': [1]}  
+    b) {'a': 1}  
+    c) KeyError
 
 97. Function va lambda:
     ```python
@@ -1069,10 +1069,10 @@ c) PYTHON
     result = apply(lambda x: x*2, 5)
     print(result)
     ```
- 
- a) 10  
- b) 5  
- c) lambda
+    
+    a) 10  
+    b) 5  
+    c) lambda
 
 98. List va sort metodi:
     ```python
@@ -1081,9 +1081,9 @@ c) PYTHON
     print(words)
     ```
     
- a) ['kod', 'dastur', 'python']  
- b) ['python', 'dastur', 'kod']  
- c) ['dastur', 'python', 'kod']
+    a) ['kod', 'dastur', 'python']  
+    b) ['python', 'dastur', 'kod']  
+    c) ['dastur', 'python', 'kod']
 
 99. Generator funksiya:
     ```python
@@ -1094,16 +1094,15 @@ c) PYTHON
     print(list(countdown(3)))
     ```
     
- a) [3,2,1]  
- b) [1,2,3]  
- c) [3,2,1,0]
+    a) [3,2,1]  
+    b) [1,2,3]  
+    c) [3,2,1,0]
 
 100. Dictionary va items:
     ```python
     d = {'x': 1, 'y': 2}
     print(list(d.items())[0])
     ```
-    
- a) ('x', 1)
- b) 'x'
- c) 1
+    a) ('x', 1)  
+    b) 'x'  
+    c) 1
