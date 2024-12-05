@@ -1098,12 +1098,13 @@
     b) [1,2,3]  
     c) [3,2,1,0]
 
-100. Dictionary va items:
-    ```python
-    d = {'x': 1, 'y': 2}
-    print(list(d.items())[0])
-    ```
-    
-    a) ('x', 1)  
-    b) 'x'  
-    c) 1
+100. Dictionary va `items` metodi:
+
+   ```python
+   d = {'x': 1, 'y': 2}
+   print(list(d.items())[0])
+   ```
+   
+   a) (`'x'`, 1)  
+   b) `'x'`  
+   c) `1`
